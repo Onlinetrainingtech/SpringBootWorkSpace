@@ -25,4 +25,5 @@
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
 <fullyQualifiedTypeName name="com.xyz.springbooth2example.model.Student"/>
+<fullyQualifiedTypeName name="com.xyz.springboottesting.Arithmetic"/>
 </qualifiedTypeNameHistroy>
