@@ -35,13 +35,14 @@
 <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="com.example.Springbootrestbatch5.IProductService"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.xyz.springbootmysqlbatch5.repository.StudentRepository"/>
 <fullyQualifiedTypeName name="com.xyz.springbootmysqlbatch5.service.StudentService"/>
 <fullyQualifiedTypeName name="com.xyz.springbootmysqlbatch5.model.Student"/>
 <fullyQualifiedTypeName name="com.example.Springboottesterbatch5.Arithmetic"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="com.example.limitsservice.LimitConfiguration.LimitConfiguration"/>
 </qualifiedTypeNameHistroy>
