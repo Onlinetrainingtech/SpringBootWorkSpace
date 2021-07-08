@@ -17,7 +17,7 @@ class SpringBootTesterBatch5ApplicationTests {
 	{
 		Arithmetic instance=new Arithmetic();
 		double expResult=2.5;
-		double result=instance.findSquarroot(6.25);
+		double result=instance.findSquarroot(4);
 		assertEquals(expResult,result,0.0);
 	}
 

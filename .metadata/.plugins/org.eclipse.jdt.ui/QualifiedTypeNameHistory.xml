@@ -46,4 +46,7 @@
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="com.xyz.BatchSpringBooth2db.repository.StudentRepository"/>
+<fullyQualifiedTypeName name="com.xyz.BatchSpringBooth2db.service.StudentService"/>
+<fullyQualifiedTypeName name="com.xyz.BatchSpringBooth2db.model.Student"/>
 </qualifiedTypeNameHistroy>
