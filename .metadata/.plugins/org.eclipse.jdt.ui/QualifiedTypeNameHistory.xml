@@ -54,4 +54,5 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.example.springbooth2exampleb11.service.StudentService"/>
 <fullyQualifiedTypeName name="com.example.springbooth2exampleb11.model.Student"/>
+<fullyQualifiedTypeName name="com.example.SpringBootB11TestCase.Arithmetic"/>
 </qualifiedTypeNameHistroy>
